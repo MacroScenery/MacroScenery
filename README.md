@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MacroScenery a gamedev, programmer, and all around cool guy.
-- 👀 I’m interested in ... Unity, AI, and anything cool
-- 🌱 I’m currently learning ... Pico-8 and Aseprite
+- 👀 I’m interested in ... AI, and anything cool
 - 💞️ I’m looking to collaborate on ... anything?
-- 📫 How to reach me ... DM on twitter @Macro_Scenery
+- 📫 How to reach me ... DM on discord macro_scenery
 
 <!---
 MacroScenery/MacroScenery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
